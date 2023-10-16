@@ -1,6 +1,6 @@
 import urllib.request
 
-link = 'https://streaverse.zombiglace.repl.co'
+link = 'you-link-website'
 
 def connect():
     try:
